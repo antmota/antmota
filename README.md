@@ -1,7 +1,7 @@
-### Hola 👋, soy Antonio!
+## Hola 👋, soy Antonio!
 ![](https://www.semantik.com.mx/wp-content/uploads/2017/03/banner_data_new-1170x588.png)
 
-# Ingeniero Industrial con experiencia en el área de planificación de demanda, visualización y análisis de datos. 📊 📈.
+### Ingeniero Industrial con experiencia en el área de planificación de demanda, visualización y análisis de datos. 📊 📈.
 
 
 **Habilidades:** 
