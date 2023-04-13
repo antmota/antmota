@@ -7,6 +7,7 @@
 #### 🔭 Actualmente estoy trabajando en el departamento de ventas de una empresa que fabrica equipos de calefacción.
 #### 🧠 Actualmente estudiando para ser Data Scientist. 💪
 
+
 **Habilidades:** 
 - EXCEL.
 - SAP.
