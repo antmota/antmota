@@ -4,6 +4,8 @@
 ### Ingeniero Industrial con experiencia en el área de planificación de demanda, visualización y análisis de datos. 📊 📈.
 
 
+### 🔭 Actualmente estoy trabajando en el departamento de ventas de una empresa que fabrica equipos de calefacción, tambien estoy estudiando para ser Data Scientist 💪
+
 **Habilidades:** 
 - EXCEL.
 - SAP.
